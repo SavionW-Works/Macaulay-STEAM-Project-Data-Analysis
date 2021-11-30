@@ -1,0 +1,49 @@
+Brand,Scientist,Condition,Temp (F),Start Charge 1,End Charge 1,Rate per Hour 1,Start Charge 2,End Charge 2,Rate per Hour 2,Start Charge 3,End Charge 3,Rate per Hour 3
+Micropower,Everyone,Room Temp,70,1.5,1.36,0.28,1.36,1.3,0.12,1.3,1.29,0.02
+Micropower,Everyone,Room Temp,70,1.51,1.36,0.3,1.36,1.3,0.12,1.3,1.28,0.04
+Micropower,Everyone,Room Temp,70,1.52,1.36,0.32,1.36,1.31,0.1,1.31,1.29,0.04
+Micropower,Everyone,Room Temp,70,1.51,1.35,0.32,1.35,1.27,0.16,1.27,1.26,0.02
+Micropower,Everyone,Cold,38,1.63,1.42,0.42,1.42,1.33,0.18,1.33,1.29,0.08
+Micropower,Everyone,Cold,38,1.63,1.41,0.44,1.41,1.32,0.18,1.32,1.28,0.08
+Micropower,Everyone,Cold,38,1.63,1.4,0.46,1.4,1.31,0.18,1.31,1.27,0.08
+Micropower,Everyone,Cold,38,1.63,1.41,0.44,1.41,1.3,0.22,1.3,1.27,0.06
+Micropower,Everyone,Hot,90,1.61,1.44,0.34,1.44,1.38,0.12,1.38,1.34,0.08
+Micropower,Everyone,Hot,90,1.61,1.43,0.36,1.43,1.37,0.12,1.37,1.33,0.08
+Micropower,Everyone,Hot,90,1.61,1.43,0.36,1.43,1.38,0.1,1.38,1.32,0.12
+Micropower,Everyone,Hot,90,1.61,1.42,0.38,1.42,1.37,0.1,1.37,1.32,0.1
+Duracell,Savion,Room Temp,70,1.57,1.43,0.28,1.43,1.34,0.18,1.34,1.31,0.06
+Duracell,Savion,Room Temp,70,1.58,1.41,0.34,1.41,1.36,0.1,1.36,1.31,0.1
+Duracell,Savion,Room Temp,70,1.56,1.41,0.3,1.41,1.35,0.12,1.35,1.33,0.04
+Duracell,Savion,Room Temp,70,1.57,1.41,0.32,1.41,1.36,0.1,1.36,1.31,0.1
+Duracell,Melena,Cold,38,1.58,1.38,0.4,1.38,1.32,0.12,1.32,1.27,0.1
+Duracell,Melena,Cold,38,1.58,1.38,0.4,1.38,1.31,0.14,1.31,1.27,0.08
+Duracell,Melena,Cold,38,1.57,1.35,0.44,1.35,1.3,0.1,1.3,1.26,0.08
+Duracell,Melena,Cold,38,1.58,1.38,0.4,1.38,1.3,0.16,1.3,1.24,0.12
+Duracell,Melena,Hot,90,1.56,1.43,0.26,1.43,1.38,0.1,1.38,1.38,0
+Duracell,Melena,Hot,90,1.57,1.43,0.28,1.43,1.38,0.1,1.38,1.38,0
+Duracell,Melena,Hot,90,1.58,1.44,0.28,1.44,1.38,0.12,1.38,1.37,0.02
+Duracell,Melena,Hot,90,1.57,1.44,0.26,1.44,1.38,0.12,1.38,1.37,0.02
+Panasonic,Buka,Room Temp,70,1.55,1.41,0.28,1.41,1.36,0.1,1.36,1.33,0.06
+Panasonic,Buka,Room Temp,70,1.57,1.41,0.32,1.41,1.37,0.08,1.37,1.32,0.1
+Panasonic,Buka,Room Temp,70,1.55,1.4,0.3,1.4,1.35,0.1,1.35,1.31,0.08
+Panasonic,Buka,Room Temp,70,1.56,1.48,0.16,1.48,1.36,0.24,1.36,1.3,0.12
+Panasonic,Buka,Cold,38,1.61,1.39,0.44,1.39,1.33,0.12,1.33,1.3,0.06
+Panasonic,Buka,Cold,38,1.61,1.39,0.44,1.39,1.32,0.14,1.32,1.3,0.04
+Panasonic,Buka,Cold,38,1.61,1.38,0.46,1.38,1.31,0.14,1.31,1.29,0.04
+Panasonic,Buka,Cold,38,1.61,1.38,0.46,1.38,1.32,0.12,1.32,1.29,0.06
+Panasonic,Buka,Hot,90,1.55,1.45,0.2,1.45,1.38,0.14,1.38,1.34,0.08
+Panasonic,Buka,Hot,90,1.56,1.45,0.22,1.45,1.37,0.16,1.37,1.34,0.06
+Panasonic,Buka,Hot,90,1.56,1.44,0.24,1.44,1.36,0.16,1.36,1.34,0.04
+Panasonic,Buka,Hot,90,1.56,1.44,0.24,1.44,1.37,0.14,1.37,1.33,0.08
+Energizer Max,Melena,Room Temp,70,1.58,1.41,0.34,1.41,1.36,0.1,1.36,1.32,0.08
+Energizer Max,Melena,Room Temp,70,1.57,1.41,0.32,1.41,1.35,0.12,1.35,1.32,0.06
+Energizer Max,Melena,Room Temp,70,1.55,1.41,0.28,1.41,1.36,0.1,1.36,1.3,0.12
+Energizer Max,Melena,Room Temp,70,1.58,1.42,0.32,1.42,1.36,0.12,1.36,1.3,0.12
+Energizer Max,Melena,Cold,38,1.55,1.4,0.3,1.4,1.29,0.22,1.29,1.26,0.06
+Energizer Max,Melena,Cold,38,1.57,1.4,0.34,1.4,1.32,0.16,1.32,1.27,0.1
+Energizer Max,Melena,Cold,38,1.56,1.38,0.36,1.38,1.32,0.12,1.32,1.27,0.1
+Energizer Max,Melena,Cold,38,1.58,1.37,0.42,1.37,1.32,0.1,1.32,1.26,0.12
+Energizer Max,Melena,Hot,90,1.6,1.43,0.34,1.43,1.38,0.1,1.38,1.35,0.06
+Energizer Max,Melena,Hot,90,1.68,1.43,0.5,1.43,1.37,0.12,1.37,1.35,0.04
+Energizer Max,Melena,Hot,90,1.58,1.42,0.32,1.42,1.38,0.08,1.38,1.36,0.04
+Energizer Max,Melena,Hot,90,1.68,1.42,0.52,1.42,1.38,0.08,1.38,1.34,0.08
