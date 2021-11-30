@@ -20,6 +20,7 @@ Over the course of about 2 weeks I...  <br />
 
 
 Link to Festival Submission Page: (insert link) <br />
-The spreadsheet with our data is also included in this repo. <br /> <br />
+The spreadsheet with our data is also included in this repo. <br /> 
+The HTML document was exported directly from Jupyter Notebook <br />
 
 
