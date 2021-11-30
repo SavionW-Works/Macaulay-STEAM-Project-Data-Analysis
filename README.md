@@ -1,5 +1,6 @@
 # Macaulay-STEAM-Project-Data-Analysis
 This repo represents data analysis I performed with Python in Jupyter notebook to draw conclusions from an original experiment conducted for the Macaulay STEAM Festival <br /> <br />
+Link to Festival Submission Page: (insert link) <br /> <br />
 
 Description of Macaulay STEAM Festival (from macaulay.cuny.edu): <br /> 
 *Macaulay STEAM Festival celebrates critical inquiry in the arts and sciences, with informal presentations tied to final semester projects for Arts in New York City (first year students), and Science Forward (sophomores).* <br />
@@ -19,8 +20,7 @@ Over the course of about 2 weeks I...  <br />
 - Created clear and concise graphs from Python code to put on our poster and research paper
 
 
-Link to Festival Submission Page: (insert link) <br />
 The spreadsheet with our data is also included in this repo. <br /> 
-The HTML document was exported directly from Jupyter Notebook <br />
+The HTML document was exported directly from Jupyter Notebook, therefore, The HTML precentage presented by Github does __NOT__  accurately represent where most of my programming skill went. <br />
 
 
