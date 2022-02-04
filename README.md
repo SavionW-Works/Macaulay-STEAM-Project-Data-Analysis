@@ -3,7 +3,7 @@ This repo represents data analysis I performed with Python in Jupyter notebook t
 Link to Festival Submission Page: (https://eportfolios.macaulay.cuny.edu/steamfest2021/2021/12/02/how-can-climate-conditions-effect-batteries/) <br /> <br />
 
 
-__NOTE:__ The HTML document in this repo was exported directly from Jupyter Notebook, therefore, the HTML precentage presented by Github does __NOT__  accurately represent where most of my programming skill went. *__All of the original code was made in Python.__* <br /> 
+__NOTE:__ The HTML document in this repo was exported directly from Jupyter Notebook, therefore, the HTML percentage presented by Github does __NOT__  accurately represent where most of my programming skill went. *__All of the original code was made in Python.__* <br /> 
 The spreadsheet with our data is also included in this repo. <br /> 
 
 Description of Macaulay STEAM Festival (from macaulay.cuny.edu): <br /> 
